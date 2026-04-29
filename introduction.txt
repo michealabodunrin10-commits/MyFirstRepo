@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+
+My name is Abodunrin Micheal. I am currently learning software engineering
+and exploring tools like Git and GitHub to manage my projects.
+
+I am excited to build new skills and collaborate with others
+through version control and open source contributions.
